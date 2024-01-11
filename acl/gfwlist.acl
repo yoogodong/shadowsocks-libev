@@ -5,7 +5,7 @@
 [proxy_list]
 # 自定义$
 (^|\.)poe\.com$
-(^|\.)bing\.com$
+(^|\.)copilot\.microsoft\.com$
 # Telegram IPs$
 149.154.167.99/32
 149.154.175.10/32
