@@ -4,6 +4,7 @@
 
 [proxy_list]
 # 自定义$
+(^|\.)apkpure\.net$
 (^|\.)perplexity\.ai$
 (^|\.)poe\.com$
 (^|\.)copilot\.microsoft\.com$
