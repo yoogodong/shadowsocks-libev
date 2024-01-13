@@ -4,6 +4,7 @@
 
 [proxy_list]
 # 自定义$
+(^|\.)perplexity\.ai$
 (^|\.)poe\.com$
 (^|\.)copilot\.microsoft\.com$
 # Telegram IPs$
